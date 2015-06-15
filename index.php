@@ -1,6 +1,10 @@
 <!Doctype html>
 	<?php include "connect.php"; ?>
+<<<<<<< HEAD
 	<? php require('autoload.php'); ?>
+=======
+
+>>>>>>> 6a7f26ddff9614ef08f5c3a1c30fdbae71b1b0fc
 <html>
 <head lang="pt-BR">
 	<meta charset="utf-8">
