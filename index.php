@@ -1,6 +1,6 @@
 <!Doctype html>
 	<?php include "connect.php"; ?>
-	<?php require('autoload.php');
+	<?php require('autoload.php'); ?>
 <html>
 <head lang="pt-BR">
 	<meta charset="utf-8">
