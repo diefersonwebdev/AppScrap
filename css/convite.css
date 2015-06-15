@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.content-convite{
+	width: 100%;
+	overflow: hidden;
+	background: #ecf0f1;
+	border-radius: 10px;
+}
+
+.content-convite input{
+	width: 96.55172413793103448276%; /*280px / 290*/
+	margin-left: 1.03448275862068965517%; /*3px / 290*/
+	border: 1px solid #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 1.125em; /*18px*/
+}
+
+.content-convite button{
+	width: 41.37931034482758620690%;
+	height: 32px;
+	float: right;
+	margin: 1.66666666666666666667% 1.66666666666666666667% 1.66666666666666666667% 0%; /*10px / 600px*/
+	border: 1px solid #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #777;
+	color: #fff;
+	cursor: pointer;
+}
+
+.content-convite span{
+	font-size: 1.125em;
+	font-family: Helvetica;
+	float: left;
+	margin-left: 1.03448275862068965517%; /*3px / 290*/
+	color: #1abc9c;
+}
